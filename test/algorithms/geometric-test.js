@@ -48,7 +48,7 @@ describe('geometric algorithm', () => {
     assert.equal(positionFromValue, x);
   });
   
-    it('[Duplicate] should provide correct values for nice integers in the middle of a range', () => {
+    it('[Duplicate 2] should provide correct values for nice integers in the middle of a range', () => {
     const min = 0;
     const max = 1024;
     const x = 25;
