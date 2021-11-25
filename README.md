@@ -30,6 +30,7 @@ your own as long as it conforms to the shape.
 
 Custom class name that will be applied to the root of Rheostat.
 
+
 ```js
   className: PropTypes.string
 ```
